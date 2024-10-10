@@ -42,25 +42,25 @@
 		849039232CA317270078E52F /* Exceptions for "Online Examination" folder in "Online ExaminationUITests" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				"Other/Fonts/Poppins /OFL.txt",
-				"Other/Fonts/Poppins /Poppins-Black.ttf",
-				"Other/Fonts/Poppins /Poppins-BlackItalic.ttf",
-				"Other/Fonts/Poppins /Poppins-Bold.ttf",
-				"Other/Fonts/Poppins /Poppins-BoldItalic.ttf",
-				"Other/Fonts/Poppins /Poppins-ExtraBold.ttf",
-				"Other/Fonts/Poppins /Poppins-ExtraBoldItalic.ttf",
-				"Other/Fonts/Poppins /Poppins-ExtraLight.ttf",
-				"Other/Fonts/Poppins /Poppins-ExtraLightItalic.ttf",
-				"Other/Fonts/Poppins /Poppins-Italic.ttf",
-				"Other/Fonts/Poppins /Poppins-Light.ttf",
-				"Other/Fonts/Poppins /Poppins-LightItalic.ttf",
-				"Other/Fonts/Poppins /Poppins-Medium.ttf",
-				"Other/Fonts/Poppins /Poppins-MediumItalic.ttf",
-				"Other/Fonts/Poppins /Poppins-Regular.ttf",
-				"Other/Fonts/Poppins /Poppins-SemiBold.ttf",
-				"Other/Fonts/Poppins /Poppins-SemiBoldItalic.ttf",
-				"Other/Fonts/Poppins /Poppins-Thin.ttf",
-				"Other/Fonts/Poppins /Poppins-ThinItalic.ttf",
+				"Other/Resources/Fonts/Poppins /OFL.txt",
+				"Other/Resources/Fonts/Poppins /Poppins-Black.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-BlackItalic.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-Bold.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-BoldItalic.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-ExtraBold.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-ExtraBoldItalic.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-ExtraLight.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-ExtraLightItalic.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-Italic.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-Light.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-LightItalic.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-Medium.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-MediumItalic.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-Regular.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-SemiBold.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-SemiBoldItalic.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-Thin.ttf",
+				"Other/Resources/Fonts/Poppins /Poppins-ThinItalic.ttf",
 			);
 			target = 849038BA2CA308490078E52F /* Online ExaminationUITests */;
 		};
@@ -384,7 +384,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -441,7 +441,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
